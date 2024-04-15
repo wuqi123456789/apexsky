@@ -28,7 +28,7 @@
 // this is a test, with seconds
 Memory apex_mem;
 extern const exported_offsets_t offsets;
-
+// Just setting things up, dont edit.
 // Just setting things up, dont edit.
 bool active = true;
 const int ENT_NUM = 10000;
